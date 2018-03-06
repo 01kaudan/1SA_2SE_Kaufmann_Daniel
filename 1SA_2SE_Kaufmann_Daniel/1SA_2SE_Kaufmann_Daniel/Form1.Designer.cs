@@ -102,6 +102,7 @@
             this.Autoerstellen.TabIndex = 6;
             this.Autoerstellen.Text = "Autoerstellen";
             this.Autoerstellen.UseVisualStyleBackColor = true;
+            this.Autoerstellen.Click += new System.EventHandler(this.Autoerstellen_Click);
             // 
             // tanken
             // 

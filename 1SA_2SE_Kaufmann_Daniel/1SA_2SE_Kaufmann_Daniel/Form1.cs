@@ -15,5 +15,23 @@ namespace _1SA_2SE_Kaufmann_Daniel
         {
             InitializeComponent();
         }
+
+        private void Autoerstellen_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        class Auto
+        {
+
+
+
+
+
+
+
+        }
+
+
     }
 }
