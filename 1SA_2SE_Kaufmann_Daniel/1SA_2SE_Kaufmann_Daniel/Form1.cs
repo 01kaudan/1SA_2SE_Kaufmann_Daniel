@@ -23,6 +23,9 @@ namespace _1SA_2SE_Kaufmann_Daniel
 
         class Auto
         {
+            static string Marke;
+            static string PS;
+            static string Farbe; 
 
 
 
@@ -30,6 +33,11 @@ namespace _1SA_2SE_Kaufmann_Daniel
 
 
 
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            
         }
 
 
